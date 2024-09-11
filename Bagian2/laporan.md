@@ -61,7 +61,6 @@ Perbaikan perulangan while
 Hasil perbaikan perulangan while
 ![](img\perbaikanPraktikum2.1.png)
 
-
 Perbaikan perulangan do while
 
 ```DART
@@ -107,8 +106,9 @@ If (index == 21) break;
   print(index);
 }
 ```
+
 ![](img\praktikum3langkah3.png)
-Terjadi error dalam penulisan syntax yaitu penulisan else if menggunakan huruf kapital dan terdapat dead code yang menunjukan bahwa kode tidak akan pernah dijalankan  
+Terjadi error dalam penulisan syntax yaitu penulisan else if menggunakan huruf kapital dan terdapat dead code yang menunjukan bahwa kode tidak akan pernah dijalankan
 
 ```DART
 // Perbaikan
@@ -121,24 +121,24 @@ for (int index = 10; index < 27; index++) {
   print(index);
 }
 ```
+
 Hasil perbaikan
 
 ![](img\perbaikanPraktikum3.png)
 
-
->TUGAS PRAKTIKUM
-Buatlah sebuah program yang dapat menampilkan bilangan prima dari angka 0 sampai 201 menggunakan Dart. Ketika bilangan prima ditemukan, maka tampilkan nama lengkap dan NIM Anda.
+> TUGAS PRAKTIKUM
+> Buatlah sebuah program yang dapat menampilkan bilangan prima dari angka 0 sampai 201 menggunakan Dart. Ketika bilangan prima ditemukan, maka tampilkan nama lengkap dan NIM Anda.
 
 ```DART
 void main() {
   for (int i = 0; i <= 201; i++) {
     if (i % 2 == 1 || i == 2 || i == 1) {
-      print('Bilangan prima : $i  NIM : 2241720036');
+      print('Bilangan prima : $i  - NAMA :Putri Norchasana - NIM : 2241720036');
     }
   }
 }
 ```
+
 Hasil tugas praktikum
 
 ![](img\tugasPraktikum.png)
-
