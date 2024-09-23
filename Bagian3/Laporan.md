@@ -22,7 +22,7 @@ void main(){
 
 ### Praktikum 1 Langkah 2
 
-![](/img/P1L1.png)
+![](/Bagian3/img/P1L1.png)
 
 - Menampilkan panjang list yaitu 3, karena array list berjumlah 3
 - Menampilkan list index ke 1 yaitu 2
@@ -48,7 +48,7 @@ Ubah kode pada langkah 1 menjadi variabel final yang mempunyai index = 5 dengan 
 
 Hasil
 
-![](/img/P1L3.png)
+![](/Bagian3/img/P1L3.png)
 
 Penjelasan
 Disini saya menggunakan null safety untuk menghindari error karena default valuenya adalah null, setelah itu baru menggantikan list index ke 1 dan 2 dengan nama dan nim, dapat dilihat dari hasilnya dimana list index ke 1 dan 2 sebelumnya adalah null kemudian beru berisi nim dan nama
@@ -68,7 +68,7 @@ void main(){
 
 Hasil
 
-![](/img/P2L1.png)
+![](/Bagian3/img/P2L1.png)
 
 Akan menampilkan set yang berisi nama-nama unsur halogen
 
@@ -86,7 +86,7 @@ Akan menampilkan set yang berisi nama-nama unsur halogen
 
 Hasil
 
-![](/img/P2L3.png)
+![](/Bagian3/img/P2L3.png)
 
 Hanya akan menampilkan {} tanpa ada nilainya, karena set dan map disini cuma deklarasi
 
@@ -105,7 +105,7 @@ Hanya akan menampilkan {} tanpa ada nilainya, karena set dan map disini cuma dek
 
 Hasil
 
-![](/img/P2L3A.png)
+![](/Bagian3/img/P2L3A.png)
 
 ## Praktikum 3: Eksperimen Tipe Data Maps
 
@@ -134,7 +134,7 @@ print(nobleGases);
 
 Hasil
 
-![](/img/P3L1.png)
+![](/Bagian3/img/P3L1.png)
 
 Akan menampilkan data yang memiliki tipe data maps
 
@@ -160,7 +160,7 @@ Menambahkan kode program
 
 Hasil
 
-![](/img/P3L3.png)
+![](/Bagian3/img/P3L3.png)
 
 Tidak terdapat error namun pada variabel gifts['fifth] yang sebelumnya 1 menjadi golden rings kemudian nobleGases[18] yang sebelumnya 2 menjadi argon
 
@@ -181,7 +181,7 @@ Tidak terdapat error namun pada variabel gifts['fifth] yang sebelumnya 1 menjadi
 
 Hasil
 
-![](/img/P4L1.png)
+![](/Bagian3/img/P4L1.png)
 
 Terjadi error karena variabel list1 undefined
 
@@ -199,7 +199,7 @@ Perbaikan
 
 Hasil dari perbaikan
 
-![](/img/P4L1P.png)
+![](/Bagian3/img/P4L1P.png)
 
 - Menampilkan isi dari list, yaitu 1,2,3
 - Menampilkan isi dari list 2 yaitu 0 kemudian ditambahkan isi dari
@@ -217,7 +217,7 @@ Hasil dari perbaikan
 
 Hasil
 
-![](/img/P4L3.png)
+![](/Bagian3/img/P4L3.png)
 
 Terjadi error karena list tidak di deklarasi dengan benar (Syntax var tidak ditulis) sehingga list 1 undefined
 
@@ -232,7 +232,7 @@ Terjadi error karena list tidak di deklarasi dengan benar (Syntax var tidak ditu
 
 Hasil perbaikan
 
-![](/img/P4L3P.png)
+![](/Bagian3/img/P4L3P.png)
 
 Menambahkan NIM
 
@@ -244,7 +244,7 @@ Menambahkan NIM
 
 Hasil
 
-![](/img/P4L3add.png)
+![](/Bagian3/img/P4L3add.png)
 
 ### Praktikum 4 langkah 4
 
@@ -255,7 +255,7 @@ print(nav);
 
 Hasil
 
-![](/img/P4L4.png)
+![](/Bagian3/img/P4L4.png)
 
 Terjadi error karena promoActive tidak didekllarasi
 
@@ -270,7 +270,7 @@ Perbaikan
 
 Hasil
 
-![](/img/P4L4P.png)
+![](/Bagian3/img/P4L4P.png)
 
 Hasil yang pertama ketika promoActive bernilai true maka 'Outlet' pada sets akan ditampilkan juga, sedangkan ketika promoActive bernilai false maka 'Outlet' pada set tidak ditampilkan
 
@@ -283,7 +283,7 @@ print(nav2);
 
 Hasil
 
-![](/img/P4L5.png)
+![](/Bagian3/img/P4L5.png)
 
 Perbaikan
 
@@ -300,7 +300,7 @@ Perbaikan
 
 Hasil
 
-![](/img/P4L5P.png)
+![](/Bagian3/img/P4L5P.png)
 
 ### Praktikum 4 langkah 6
 
@@ -313,7 +313,7 @@ print(listOfStrings);
 
 Hasil
 
-![](/img/P4L6.png)
+![](/Bagian3/img/P4L6.png)
 
 Manfaat collection for => untuk memanipulasi item dalam suatu daftar sebelum menambahkannya ke daftar lain:
 
@@ -330,7 +330,7 @@ Manfaat collection for => untuk memanipulasi item dalam suatu daftar sebelum men
 
 Hasil langkah 1
 
-![](/img/P5L1.png)
+![](/Bagian3/img/P5L1.png)
 
 Perbaikan
 
@@ -341,7 +341,7 @@ Perbaikan
 
 Hasil perbaikan
 
-![](/img/P5L2.png)
+![](/Bagian3/img/P5L2.png)
 
 ### Praktikum 5 langkah 3
 
@@ -356,7 +356,7 @@ Hasil dari praktikum bagian ini adalah tidak menghasilkan apapun, karena kode be
 
 Setelah di letakkan didalam main berikut outputnya
 
-![](/img/P5L3.png)
+![](/Bagian3/img/P5L3.png)
 
 ### Praktikum 5 langkah 4
 
@@ -368,7 +368,7 @@ Setelah di letakkan didalam main berikut outputnya
 
 Hasil
 
-![](/img/P5L4.png)
+![](/Bagian3/img/P5L4.png)
 
 Error karena mahasiswa belum di inisiasi
 
@@ -382,7 +382,7 @@ Perbaikan
 
 Hasil
 
-![](/img/P5L4P.png)
+![](/Bagian3/img/P5L4P.png)
 
 ### Praktikum 5 langkah 5
 
@@ -397,7 +397,7 @@ print(mahasiswa2.$2); // Prints 'last'
 
 Hasil
 
-![](/img/P5L5.png)
+![](/Bagian3/img/P5L5.png)
 
 Akan menampilkan isi dari record mahasiswa
 
@@ -414,7 +414,7 @@ Mengubah isi record dengan nama dan nim
 
 Hasil
 
-![](/img/P5L5A.png)
+![](/Bagian3/img/P5L5A.png)
 
 ## Tugas Praktikum
 

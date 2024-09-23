@@ -4,13 +4,14 @@
 
 Hasil praktikum 1 langkah 1
 
-![](img\praktikum1langkah1.png)
+![](/Bagian2/img/praktikum1langkah1.png)
 
-Hasil praktikum 1 langkah 3
-![](img\praktikum1langkah3.png)
+Hasil praktikum 1 langkah 3\
+![](/Bagian2/img/praktikum1langkah3.png)
 
 ```DART
 String test = "true";
+
 if(test)
 {
      print("Kebenaran");
@@ -36,15 +37,15 @@ Perbaikan
 
 Hasil Perbaikan
 
-![](img\perbaikanPraktikum1.png)
+![](/Bagian2/img/perbaikanPraktikum1.png)
 
 Disini sayan menggunakan 2 perbaikan, yang pertama saya menggunakan value test yang bertipe string kemudian yang kedua saya menggunakan value test yang bertipe boolean sehingga untuk pengecekan kondisi juga berbeda syntaxnya.
 
 Hasil praktikum 2 langkah 1
-![](img\praktikum2langkah1.png)
+![](/Bagian2/img/praktikum2langkah1.png)
 
 Hasil praktikum 2 langkah 3
-![](img\praktikum2langkah3.png)
+![](/Bagian2/img/praktikum2langkah3.png)
 
 Terjadi error karena variabel counter belum di deklarasi
 
@@ -59,7 +60,7 @@ Perbaikan perulangan while
 ```
 
 Hasil perbaikan perulangan while
-![](img\perbaikanPraktikum2.1.png)
+![](/Bagian2/img/perbaikanPraktikum2.1.png)
 
 Perbaikan perulangan do while
 
@@ -72,7 +73,7 @@ Perbaikan perulangan do while
 ```
 
 Hasil perbaikan perulangan do while
-![](img\perbaikanPraktikum2.2.png)
+![](/Bagian2/img/perbaikanPraktikum2.2.png)
 
 Praktikum 3 langkah 1
 
@@ -82,7 +83,7 @@ Praktikum 3 langkah 1
  }
 ```
 
-![](img\praktikum3langkah1.png)
+![](/Bagian2/img/praktikum3langkah1.png)
 Terjadi error undefine name index karen tipe data variabel tidak di deklarasi
 
 Perbaikan
@@ -94,7 +95,7 @@ Perbaikan
 ```
 
 Hasil perbaikan
-![](img\perbaikanPraktikum3.png)
+![](/Bagian2/img/perbaikanPraktikum3.png)
 
 Praktikum 3 langkah 3
 
@@ -107,7 +108,7 @@ If (index == 21) break;
 }
 ```
 
-![](img\praktikum3langkah3.png)
+![](/Bagian2/img/praktikum3langkah3.png)
 Terjadi error dalam penulisan syntax yaitu penulisan else if menggunakan huruf kapital dan terdapat dead code yang menunjukan bahwa kode tidak akan pernah dijalankan
 
 ```DART
@@ -124,7 +125,7 @@ for (int index = 10; index < 27; index++) {
 
 Hasil perbaikan
 
-![](img\perbaikanPraktikum3.png)
+![](/Bagian2/img/perbaikanPraktikum3.png)
 
 > TUGAS PRAKTIKUM
 > Buatlah sebuah program yang dapat menampilkan bilangan prima dari angka 0 sampai 201 menggunakan Dart. Ketika bilangan prima ditemukan, maka tampilkan nama lengkap dan NIM Anda.
@@ -141,4 +142,4 @@ void main() {
 
 Hasil tugas praktikum
 
-![](img\tugasPraktikum.png)
+![](/Bagian2/img/tugasPraktikum.png)
