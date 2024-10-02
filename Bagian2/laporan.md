@@ -2,8 +2,7 @@
 >
 > Kelas : TI-3D
 
-Hasil praktikum 1 langkah 1
-
+Hasil praktikum 1 langkah 1\
 ![](/Bagian2/img/praktikum1langkah1.png)
 
 Hasil praktikum 1 langkah 3\
@@ -35,16 +34,15 @@ Perbaikan
   }
 ```
 
-Hasil Perbaikan
-
+Hasil Perbaikan\
 ![](/Bagian2/img/perbaikanPraktikum1.png)
 
 Disini sayan menggunakan 2 perbaikan, yang pertama saya menggunakan value test yang bertipe string kemudian yang kedua saya menggunakan value test yang bertipe boolean sehingga untuk pengecekan kondisi juga berbeda syntaxnya.
 
-Hasil praktikum 2 langkah 1
+Hasil praktikum 2 langkah 1\
 ![](/Bagian2/img/praktikum2langkah1.png)
 
-Hasil praktikum 2 langkah 3
+Hasil praktikum 2 langkah 3\
 ![](/Bagian2/img/praktikum2langkah3.png)
 
 Terjadi error karena variabel counter belum di deklarasi
@@ -59,7 +57,7 @@ Perbaikan perulangan while
    }
 ```
 
-Hasil perbaikan perulangan while
+Hasil perbaikan perulangan while\
 ![](/Bagian2/img/perbaikanPraktikum2.1.png)
 
 Perbaikan perulangan do while
@@ -72,7 +70,7 @@ Perbaikan perulangan do while
   } while (counter < 77);
 ```
 
-Hasil perbaikan perulangan do while
+Hasil perbaikan perulangan do while\
 ![](/Bagian2/img/perbaikanPraktikum2.2.png)
 
 Praktikum 3 langkah 1
