@@ -10,13 +10,13 @@
 
 Hasil :
 
-![](/layout_flutter/img/P1-P4.png)
+![](/Layout-Navigasi//layout_flutter/img/P1-P4.png)
 
 ### 2. Implementasikan di project baru "basic_layout_flutter"
 
 Hasil :
 
-![](/tugas_2/img/tugas_2.png)
+![](/Layout-Navigasi/tugas_2/img/tugas_2.png)
 
 ## Praktikum 5
 
@@ -146,10 +146,10 @@ Navigator.pushNamed(context, '/item');
 
 ### Hasil
 
-![](/belanja/img/P5.png)
+![](/Layout-Navigasi/belanja/img/P5.png)
 
 Setelah di klik
-![](/belanja/img/P5.1.png)
+![](/Layout-Navigasi/belanja/img/P5.1.png)
 
 # Tugas Praktikum 2
 
@@ -196,11 +196,11 @@ class ItemPage extends StatelessWidget {
 
 ### Hasil
 
-![](/belanja/img/P5.png)
+![](/Layout-Navigasi/belanja/img/P5.png)
 
 Setelah di klik
 
-![](/belanja/img/P5M1.png)
+![](/Layout-Navigasi/belanja/img/P5M1.png)
 
 3. Pada hasil akhir dari aplikasi belanja yang telah anda selesaikan, tambahkan atribut foto produk, stok, dan rating. Ubahlah tampilan menjadi GridView seperti di aplikasi marketplace pada umumnya.
 
@@ -323,9 +323,9 @@ class HomePage extends StatelessWidget {
 
 ```
 
-![](/belanja/img/P5M2.png)
-![](/belanja/img/P5M4.png)
-![](/belanja/img/P5M5.png)
+![](/Layout-Navigasi/belanja/img/P5M2.png)
+![](/Layout-Navigasi/belanja/img/P5M4.png)
+![](/Layout-Navigasi/belanja/img/P5M5.png)
 
 4. Silakan implementasikan Hero widget pada aplikasi belanja Anda
 
@@ -344,7 +344,7 @@ class HomePage extends StatelessWidget {
 
 5. Sesuaikan dan modifikasi tampilan sehingga menjadi aplikasi yang menarik. Selain itu, pecah widget menjadi kode yang lebih kecil. Tambahkan Nama dan NIM di footer aplikasi belanja Anda.
 
-![](/belanja/img/P5M3.png)
+![](/Layout-Navigasi/belanja/img/P5M3.png)
 
 6. Selesaikan Praktikum 5: Navigasi dan Rute tersebut. Cobalah modifikasi menggunakan plugin go_router, lalu dokumentasikan dan push ke repository Anda berupa screenshot setiap hasil pekerjaan beserta penjelasannya di file README.md. Kumpulkan link commit repository GitHub Anda kepada dosen yang telah disepakati!
 
